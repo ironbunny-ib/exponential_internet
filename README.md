@@ -18,7 +18,13 @@
 - More firms can provide 2 workspaces on the same login, if this becomes a capability.
 
 #### User
-- Only the user can discern which 2 internets he is working and individual firms can't
+- Only the user can discern which 2 internets he is working on and individual firms can't
 - I call it 2 internets as a slang, a more real label is 2 user workspaces on the internet
 - Each internet has a set of websites and default firm workspaces opened on them
 - The user has this mapped in their brain, and thus can do more on the internet
+
+
+> Companies can't differentiate which data sink or firm workspace does the user store separately as part of a wider project, as part of a wider identity in their brain. And this wider project or identity consists of many different websites/company products used by them. 
+
+> Once the user has switched projects or identities, they need to navigate only that part of the internet which is relevant but without doing "effort" such as segregating different logins or manually selecting and loading the right data sink after login.
+
