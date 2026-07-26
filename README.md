@@ -31,7 +31,7 @@
 
 ## Product Sense
 ### The same URL on the browser tab is hit.
-![Product Sense](./extensions-of-README-files/product_sense1.png)
+![Product Sense](./extensions-of-README-files/product_sense_1.png)
 
 # Money
 - If users don't pay for this willingly: ISPs or others can sell it as default add-on inclusive of current pricing
