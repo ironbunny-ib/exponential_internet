@@ -28,3 +28,12 @@
 
 > Once the user has switched projects or identities, they need to navigate only that part of the internet which is relevant but without doing "effort" such as segregating different logins or manually selecting and loading the right data sink after login.
 
+
+## Product Sense
+### The same URL on the browser tab is hit.
+![Product Sense](./extensions-of-README-files/product_sense1.png)
+
+# Money
+- If users don't pay for this willingly: ISPs or others can sell it as default add-on inclusive of current pricing
+- If some users pay for this willingly: Nobody can incentivize corporations to adopt easily, real user requirement research would tell the story
+- If users prefer to pay for this: There can be a change which happens without force
