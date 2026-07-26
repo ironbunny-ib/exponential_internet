@@ -3,7 +3,19 @@
 # Would you want to open two Notion WebApps without two logins? 
 ## What's your favorite app that you want to have 2 copies of? We can make their access easier. 
 
-> The simple ability to open two sets (or more) of websites, with minimal effort, much less than authenticating for it, is going to make my life on the internet _happy_.
+> The simple ability to open two sets (or more) of websites, with minimal effort, much less than authenticating for it, is going to make my life on the internet _happy_. This can be understood as 2 benefits.
+
+## 2 benefits
+### Benefit 1
+- We are reducing tapping
+- The obvious one. On social media we already have multiple accounts per app. I have many many instagram accounts. I spend so much time on instagram at times, it is very convenient to change profiles through the instagram interface itself. I don't mind.
+- *But when we are on app and web-apps where we spend less time, we would prefer it to be automatic.*
+- This done across the web is a lot of taps saved.
+### Benefit 2 - the more potent one
+- I am forever working on projects. I got this idea when I had reached the limits of organizing stuff on my laptop. I wanted to have 2 separate internets on the same device. To manage multiple projects and the associated apps as separate existences.
+- With this protocol or implementation, the internet workspace remembers my default data sinks/accounts particular to a project or mental theme in my mind. I can segregate two important things, or more important things, and keep building, and keep innovating - without worrying about switching web accounts, and mentally linked websites.
+
+
 
 ### Technical Requisite
 ##### Definitions
