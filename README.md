@@ -43,9 +43,9 @@
 
 ## Product Sense
 ### The same URL on the browser tab is hit.
-![Product Sense](./extensions-of-README-files/product_sense1.png)
+![Product Sense](./extensions-of-README-file/product_sense1.png)
 ### Shortcut 2
-![Product Sense 2](./extensions-of-README-files/product_sense2.png)
+![Product Sense 2](./extensions-of-README-file/product_sense2.png)
 
 # Money
 - If users don't pay for this willingly: ISPs or others can sell it as default add-on inclusive of current pricing
