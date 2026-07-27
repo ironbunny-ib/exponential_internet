@@ -16,6 +16,54 @@
 - With this protocol or implementation, the internet workspace remembers my default data sinks/accounts particular to a project or mental theme in my mind. I can segregate two important things, or more important things, and keep building, and keep innovating - without worrying about switching web accounts, and mentally linked websites.
 
 
+## Product Sense
+### The same URL on the browser tab is hit.
+![Product Sense](./[DONT-USE]-extensions-of-README-file/product_sense1.png)
+### Shortcut 2
+![Product Sense 2](./[DONT-USE]-extensions-of-README-file/product_sense2.png)
+
+## When We Use EI: The outcome of the capability
+
+### Not concerned about EI
+If I am browsing the internet today, I might need to get the url from browser recommendation, by the act of typing a few characters...
+
+Similarly when I am on tomorrow’s internet, I will do the same thing but sometimes with the added idea of which data sink I am expecting to open up...
+
+Which doesn’t mean all my activity would be in expectation of opening a data sink I want...
+
+All intelligence, search, social, backlinks will remain as it is
+
+I wouldn’t care to change the data sink of every possible website that provides that function
+
+Probably, want to keep accessing intelligence, search, social, backlinks as it is
+
+Maybe some I expect to open a particular data sink on each different internet workspace
+
+### Concerned about EI
+But there would be times I would be actively organising the websites I want on a particular internet workspace
+
+These would be times when I want to separate a project from my future activity
+
+If I am currently starting a new project, I might start a new internet workspace as well
+
+These are two events when I will be more concerned about the workspace capability the internet provides
+- Starting a Project
+- Just Saving my Progress
+
+What the conclusion I bring here is, we need to think about the internet as two activities and enable them both to happen for the user
+- When they are concerned about the internet workspaces, that activity should be available on hand when the thought arises
+- When they are not concerned about the internet workspaces, that activity should be achievable when the IE functionality just doesn’t seem to exist
+
+
+
+
+# Money
+- If users don't pay for this willingly: ISPs or others can sell it as default add-on inclusive of current pricing
+- If some users pay for this willingly: Nobody can incentivize corporations to adopt easily, real user requirement research would tell the story
+- If users prefer to pay for this: There can be a change which happens without force
+
+
+# Tech
 
 ### Technical Requisite
 ##### Definitions
@@ -40,14 +88,3 @@
 
 > Once the user has switched projects or identities, they need to navigate only that part of the internet which is relevant but without doing "effort" such as segregating different logins or manually selecting and loading the right data sink after login.
 
-
-## Product Sense
-### The same URL on the browser tab is hit.
-![Product Sense](./[DONT-USE]-extensions-of-README-file/product_sense1.png)
-### Shortcut 2
-![Product Sense 2](./[DONT-USE]-extensions-of-README-file/product_sense2.png)
-
-# Money
-- If users don't pay for this willingly: ISPs or others can sell it as default add-on inclusive of current pricing
-- If some users pay for this willingly: Nobody can incentivize corporations to adopt easily, real user requirement research would tell the story
-- If users prefer to pay for this: There can be a change which happens without force
