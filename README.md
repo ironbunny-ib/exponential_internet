@@ -88,3 +88,7 @@ What the conclusion I bring here is, we need to think about the internet as two 
 
 > Once the user has switched projects or identities, they need to navigate only that part of the internet which is relevant but without doing "effort" such as segregating different logins or manually selecting and loading the right data sink after login.
 
+## Tech Diagrams
+
+#### Server Client Model
+![Tech 1](./[DONT-USE]-extensions-of-README-file/tech1.png)
