@@ -91,4 +91,5 @@ What the conclusion I bring here is, we need to think about the internet as two 
 ## Tech Diagrams
 
 #### Server Client Model
+![Tech 0](./[DONT-USE]-extensions-of-README-file/tech0.png)
 ![Tech 1](./[DONT-USE]-extensions-of-README-file/tech1.png)
