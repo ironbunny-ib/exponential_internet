@@ -1,10 +1,12 @@
 ## Objectives
 - Create a collection called “implementation proposal” that contains ideas and manifestations for any and all stakeholders of the web. This implementation proposal lives on the web as a website, GitHub repo and other places.
+
 Before that
 - Understand the scope of this implementation
     - A Technical Proof where analysis of all options of technical architectures (which one group can explore) is recorded, and revoked, whether as [“available to implement”, “best suited as found”, “not recommended if unsuitable”]
     - A high level document describing the simple idea to complex existence of this implementation, with step wise addition of actions/objects/actors - such that it is clear to the reader what the implementation is.
     - An alliteration that seeks to understand the role of stakeholders and who they are currently, with the responsibility of taking human representative advice and input, about what we seek to arrive at and for the internet. And finally re-access our thoughts and proposition.
+
 After that
 - Arrive at a validated and backed implementation conclusion, from the group’s effort and stakeholder checks, preferably even with end user research.
 - Promote and understand the promotion needed to make this implementation a reality.
