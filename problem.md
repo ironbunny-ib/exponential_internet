@@ -8,13 +8,10 @@ The user remembers them, and can switch between them on the browser. btw, This i
 
 As each ‘id’ represents a different history, they can be shown separate suggestions linked to that ‘id’. Now let’s take this a step further. 
 
-protocol://username:password@hostname:port/pathname?search#hash
---------------------------href----------------------------
-                            ----host------
------------------origin-------------------
-
-
+![Problem 1](./[DONT-USE]-extensions-of-README-file/problem1.png)
+ 
 Imagine it to be (yet to be discussed for the right solution)
+
 protocol://username:password:id@hostname:port/pathname?search#hash
 
 When the user switches the ‘id’ from the interface, a new “data sink” is activated on the host. Instead of having a different username, password for each data sink. The ‘id’ works as a multi-value switch.
