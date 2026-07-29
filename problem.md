@@ -1,4 +1,7 @@
 
+## Problem Statement
+To implement a new feature of the internet that allows users to define which part of it is for which project/thinking space to possibly have expanded utility of the web but in the environment of incredible complexity the web has. 
+
 
 ## Example Description of What’s missing from the web
 
