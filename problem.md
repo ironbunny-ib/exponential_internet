@@ -13,20 +13,25 @@ As each ‘id’ represents a different history, they can be shown separate sugg
 
 ![Problem 1](./[DONT-USE]-extensions-of-README-file/problem1.png)
  
-Imagine it to be (Let's assume this anatomy of a URL os used as it is)
+Imagine it to be (Let's assume this anatomy of a URL is used as it is for now)
 
 #### protocol://username:password:<ins>id</ins>@hostname:port/pathname?search#hash
 
 When the user switches the ‘id’ from the interface, a new “data sink” is activated on the host. Instead of having a different username, password for each data sink. The ‘id’ works as a multi-value switch.
 
-### What is a data sink?
+#### What is a data sink?
 A data sink is a label for a different account or workspace independent of other such accounts/workspaces. Because each account/workspace uses different data and is the end point of difference of these accounts, I am calling it "data sink".
 
-But that is not the complete problem.
+#### But that is not the complete problem.
 - A ‘id’ for the server, is not the same as an ‘id’ for the user. The user workspace can have multiple server ‘ids’.
 - So there are two types of ‘ids’. One for the user, one for the Server.
 - **There are other things as well**
-  - a
-  - b
-  - c
-  - d
+  - We do not want to expose the user workspace id to the service providers
+  - A user workspace needs to identify when the data sink associated with it changes: Addition, Removal, LIFO priority
+  - The service providers need to maintain the data sink <ins>'ids'</ins> to the best client device or client server
+  - A portal needs to be designed which works for app based, OS based, internet based implementations
+  - An update of the user workspace state needs to be synced across connected devices
+  - If opting for internet implementation: A workspace SHALL NOT depend exclusively on any individual client device for its continued existence.
+  - Invariant: The browser should be independently able to emulate as much part of the functionality as possible, without being part of an outside implementation 
+  - The interface providers can intelligently switch user workspaces: eg. Location Intelligence: When at Home, When at Office 
+  - The interface providers can identify other intelligent signals, which is up to them, we just have to have space for it
