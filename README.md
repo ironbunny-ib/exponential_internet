@@ -1,3 +1,4 @@
+<center>*"the web needs to be more patient with humans"*</center>
 ## Why do we need 2 internets?
 ### Why do we need to access two separate internet workspaces independently from the same browser?
 # Would you want to open two Notion WebApps without two logins? 
